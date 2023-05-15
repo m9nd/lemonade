@@ -23,4 +23,4 @@ basic encryption algorithm that you can use to learn from
 
 ## credit
 
-i was originally provided this code by the owner of companion screenshare tool, i don't know any of his socials now but if anyone does i'd be happy to credit him for this. only changes i made were i added the main.cc file and code and renamed the functions cuz i like my versions better
+i was originally provided this code by the owner of companion screenshare tool, i don't know any of his socials now but if anyone does i'd be happy to credit him for this. only changes i made were i added the main.cc file and code, renamed the functions, and removed the silly goofy xor encryption.
