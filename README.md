@@ -20,3 +20,7 @@ basic encryption algorithm that you can use to learn from
 1. encryption mechanism - the lemonade algorithm performs a simple additive encryption by adding a code value to each character and converting the sums to hexadecimal strings. this encryption mechanism is relatively basic and can be considered weak in terms of cryptographic strength. it lacks fundamental security features such as key management, strong randomness, and complex mathematical operations typically found in more secure encryption algorithms.
 
 2. key derivation - the code value used for encryption and decryption is derived from the _"limonadezaad"_ string. The security of the algorithm heavily relies on the strength and secrecy of this seed. If an attacker can determine or guess the seed, they can easily decrypt the messages. 
+
+## credit
+
+i was originally provided this code by the owner of companion screenshare tool, i don't know any of his socials now but if anyone does i'd be happy to credit him for this. only changes i made were i added the main.cc file and code and renamed the functions cuz i like my versions better
