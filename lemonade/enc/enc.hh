@@ -1,3 +1,6 @@
+
+// enc.hh [LEMONADE ENCRYPTION DEFS]
+
 #pragma once
 
 #include <vector>
